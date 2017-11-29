@@ -1,1 +1,2 @@
 Text added in "online" site.
+Text added in "offline" site.
